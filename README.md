@@ -1,3 +1,6 @@
+## Interview Revision -> https://docs.google.com/document/d/1ZEMDVUvC9R-BITBqWLdV5Aw3v4L1azi87HWzkQPnNtc/edit?tab=t.0
+
+
 # Lecture_Notes
 This repository is there to store the combined lecture notes of all the lectures. We are using markdown to write the lecture notes.
 
